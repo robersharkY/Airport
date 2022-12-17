@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="665d9595-aaf4-4a64-a9f4-ee096a6c283c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J0SiQ7wsQr2qVMVbym1brVr0IS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.PassengerTest">
+    <configuration name="FlightPassengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch13-continuous" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.flightspassengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.flightspassengers" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.flightspassengers.FlightPassengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightPassengerTest.getFlightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch13-continuous" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.flightspassengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.flightspassengers" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.flightspassengers.FlightPassengerTest" />
+      <option name="METHOD_NAME" value="getFlightTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightPassengerTest.joinFlightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch13-continuous" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.flightspassengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.flightspassengers" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.flightspassengers.FlightPassengerTest" />
+      <option name="METHOD_NAME" value="joinFlightTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch13-continuous" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.flights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.flights" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.flights.FlightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch13-continuous" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.passengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.passengers" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.passengers.PassengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PassengerTest" />
+        <item itemvalue="JUnit.FlightPassengerTest" />
+        <item itemvalue="JUnit.FlightTest" />
+        <item itemvalue="JUnit.FlightPassengerTest.joinFlightTest" />
+        <item itemvalue="JUnit.FlightPassengerTest.getFlightTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="665d9595-aaf4-4a64-a9f4-ee096a6c283c" name="Changes" comment="" />
+      <created>1671213634308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671213634308</updated>
+    </task>
+    <servers />
+  </component>
+</project>
